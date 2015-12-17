@@ -1,0 +1,87 @@
+{
+  "basics": {
+    "name": "Andrei Ageev",
+    "label": "Software Engineer",
+    "picture": "",
+    "email": "esneko@gmail.com",
+    "phone": "(+371) 29890964",
+    "website": "http://esneko.github.io",
+    "summary": "There is no spoon",
+    "location": {
+      "address": "Brivibas 214",
+      "postalCode": "",
+      "city": "Riga",
+      "countryCode": "LV",
+      "region": ""
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "ageev",
+        "url": "https://www.linkedin.com/in/ageev"
+      },
+      {
+        "network": "Github",
+        "username": "esneko",
+        "url": "https://github.com/esneko"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "Accenture",
+      "position": "Frontend Engineer",
+      "website": "https://www.accenture.com",
+      "startDate": "2014-10-06",
+      "endDate": "2015-12-31",
+      "summary": "",
+      "highlights": [
+        "test",
+        "test"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "RTU",
+      "area": "Information Technology",
+      "studyType": "Bachelor",
+      "startDate": "2011-06-01",
+      "endDate": "2014-01-01",
+      "courses": [
+        "test",
+        "test"
+      ]
+    }
+  ],
+  "skills": [
+    {
+      "name": "Web Development",
+      "level": "Master",
+      "keywords": [
+        "HTML5",
+        "CSS3",
+        "JavaScript"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Advanced"
+    },
+    {
+      "language": "Russian",
+      "fluency": "Native"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Japan",
+      "keywords": [
+        "Anime",
+        "Samurai"
+      ]
+    }
+  ]
+}

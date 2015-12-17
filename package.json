@@ -1,0 +1,14 @@
+{
+  "name": "resume",
+  "version": "0.0.1",
+  "description": "JSON Resume",
+  "author": "Andrei Ageev",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/esneko/esneko.github.io.git"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "handlebars": "^4.0.5"
+  }
+}
